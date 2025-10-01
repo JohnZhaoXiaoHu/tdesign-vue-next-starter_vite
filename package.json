@@ -22,7 +22,7 @@
     "dayjs": "^1.10.6",
     "echarts": "~5.1.2",
     "nprogress": "^0.2.0",
-    "pinia": "^2.0.11",
+    "pinia": "^3.0.3",
     "qrcode.vue": "^3.2.2",
     "tdesign-icons-vue-next": "^0.0.6",
     "tdesign-vue-next": "^0.15.1",
